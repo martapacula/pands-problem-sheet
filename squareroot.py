@@ -1,6 +1,7 @@
 #This is task 6
 #Author Marta Pacula
-#I checked Newton's estimation method but didn't understand much 
+#I checked Newton's estimation method here https://python.pages.doc.ic.ac.uk/2021/lessons/lesson04/04-applied/06-newton.html
+# but didn't understand much 
 #Therefore I tried to find out by myself how to define a function and get the result even though, to do so,
 # I needed to use math module
 
